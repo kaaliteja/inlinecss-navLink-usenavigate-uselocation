@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: crimson;
+  padding: 20px;
+}
+
+form div{
+  margin: 15px;
+}
+ 
+form label{
+  display: inline-block;
+  width: 100px;
+  background-color: chartreuse;
+  box-shadow:5px 5px 5px black ;
+}
+
+input{
+  margin-left: 20px;
+}
+nav{
+  background-color: aqua;
+ font-size: 1.5rem;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
